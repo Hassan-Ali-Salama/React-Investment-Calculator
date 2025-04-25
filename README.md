@@ -16,7 +16,7 @@ A React-based application that calculates the growth of an investment over time 
 ## Installation
 1. Clone the repository: `git clone https://github.com/username/ReactInvestmentCalculator.git`
 2. Install dependencies: `npm install`
-3. Run the app: `npm start`
+3. Run the app: `npm run dev`
 
 ## Screenshots
 ![Screenshot 2025-04-25 142449](https://github.com/user-attachments/assets/73b67b12-2584-416d-ae88-ee34c6e267bc)
